@@ -3,4 +3,4 @@ This is a series of experiments on the use of machine learning on detection of s
 
 # How To Access
 
-To get access please contact the repository owner.
+To get access please contact the repository owner or send an email to `h.eskandari@gmail.com`.
